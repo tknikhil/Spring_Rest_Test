@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="in.springrest.springRest.model.Books"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="com.nikhil.courses.GetCourseDetailsRequest"/>
+<fullyQualifiedTypeName name="com.nikhil.courses.GetCourseDeatilsResponse"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.Endpoint"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.PayloadRoot"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.RequestPayload"/>
+<fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.ResponsePayload"/>
+<fullyQualifiedTypeName name="org.springframework.ws.config.annotation.EnableWs"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Configurable"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.catalina.core.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.boot.web.servlet.ServletRegistrationBean"/>
+<fullyQualifiedTypeName name="org.springframework.ws.transport.http.MessageDispatcherServlet"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.xml.xsd.XsdSchema"/>
+<fullyQualifiedTypeName name="org.springframework.xml.xsd.SimpleXsdSchema"/>
+<fullyQualifiedTypeName name="org.springframework.ws.wsdl.wsdl11.DefaultWsdl11Definition"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="in.springsoap.service.CourseDetailsService"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="in.springsoap.model.Course"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.nikhil.courses.CourseDetails"/>
+<fullyQualifiedTypeName name="com.nikhil.courses.DeleteCourseDetailsRequest"/>
+<fullyQualifiedTypeName name="com.nikhil.courses.DeleteCourseDetailsResponse"/>
+<fullyQualifiedTypeName name="in.springsoap.service.CourseDetailsService.Status"/>
+<fullyQualifiedTypeName name="com.nikhil.courses.StatusWSDL"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="org.springframework.ws.soap.server.endpoint.annotation.SoapFault"/>
+<fullyQualifiedTypeName name="org.springframework.ws.soap.server.endpoint.annotation.FaultCode"/>
+<fullyQualifiedTypeName name="org.springframework.ws.soap.security.xwss.XwsSecurityInterceptor"/>
+<fullyQualifiedTypeName name="org.springframework.ws.config.annotation.WsConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.ws.soap.security.wss4j2.callback.SimplePasswordValidationCallbackHandler"/>
+<fullyQualifiedTypeName name="org.springframework.ws.soap.security.xwss.callback.SimplePasswordValidationCallbackHandler"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
 </qualifiedTypeNameHistroy>
