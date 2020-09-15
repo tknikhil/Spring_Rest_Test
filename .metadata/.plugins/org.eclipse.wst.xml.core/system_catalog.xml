@@ -36,5 +36,5 @@
   <uri name="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="jar:file:/D:/IDE/STS/sts-4.7.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/xsd/xmldsig-core-schema.xsd"/>
   <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/D:/IDE/STS/sts-4.7.1.RELEASE/plugins/org.eclipse.xsd_2.17.0.v20200319-1246.jar!/cache/www.w3.org/2001/xml.xsd"/>
   <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/D:/IDE/STS/sts-4.7.1.RELEASE/plugins/org.eclipse.xsd_2.17.0.v20200319-1246.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
-  <public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/D:/IDE/STS/sts-4.7.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_3.9.14.202007202144-CI-B521.jar!/dtd/log4j-1.2.dtd" webURL="https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd"/>
+  <public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/D:/IDE/STS/sts-4.7.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_3.9.14.202009020626-CI-B525.jar!/dtd/log4j-1.2.dtd" webURL="https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd"/>
 </catalog>
