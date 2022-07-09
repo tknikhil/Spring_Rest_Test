@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDeatilsResponse
+	xmlns="http://nikhil.com/courses"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://nikhil.com/courses course-details.xsd">
+	<CourseDetails>
+		<id>123</id>
+		<name>Spring with SOAP</name>
+		<description>Spring with SOAP web services</description>
+	</CourseDetails>
+</GetCourseDeatilsResponse>
