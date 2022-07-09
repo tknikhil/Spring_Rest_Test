@@ -1,0 +1,40 @@
+plugins {
+	id 'org.springframework.boot' version '2.5.7'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'java'
+	
+}
+
+group = 'tk.restexample2'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '17'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.boot:spring-boot-starter-hateoas'
+	//implementation 'org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE'
+	//implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml'
+	implementation 'io.springfox:springfox-boot-starter:3.0.0'
+	//implementation 'io.springfox:springfox-boot-starter:3.0.0'
+	 //compile 'io.springfox:springfox-swagger-ui:3.0.0'
+    implementation 'io.springfox:springfox-swagger-ui:3.0.0'
+    //implementation 'org.springdoc:springdoc-openapi-ui:1.2.32'
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+	implementation 'org.springframework.data:spring-data-rest-hal-explorer'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	runtimeOnly 'com.h2database:h2'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	//compileJava.options.fork = true
+ 	//compileJava.options.forkOptions.executable = '\C:\Program Files\Java\jdk-11.0.15\bin'
+}
+
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
